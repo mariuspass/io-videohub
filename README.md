@@ -5,7 +5,7 @@ Black Magic Videohub driver for iojs (and node.js), still lacking full functiona
 ### Installation
 
 ```bash
-$ npm install io-videohub
+$ npm install mariuspass/io-videohub
 ```
 
 ### Idiosyncracies
